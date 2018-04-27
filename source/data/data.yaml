@@ -1,15 +1,15 @@
 ---
 # http://yaml.org/type/map.html -----------------------------------------------#
 persons:
-  - name: Staff Creativa
+  - name: Ray Ban
     lastname: Evans
     id: 39467890
 
-  - name: Staff Creativa
+  - name: Ray Ban
     lastname: Connors
     id: 78694500
 
-  - name: Staff Creativa
+  - name: Ray Ban
     lastname: Atom
     id: 38784520
 
@@ -40,3 +40,8 @@ timestamp:
 
 
 title: Staff Creativa
+
+# DISEÑO DE PÁGINA WEB
+# DESKTOP    : Width 1366px
+# DESKTOP HD : width 1920px
+# MOBILE     : width 360px
