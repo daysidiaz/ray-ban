@@ -1,0 +1,68 @@
+.rayban {
+
+  &__carousel {
+
+    &__content {
+
+      align-items: end;
+      display: flex;
+      justify-content: space-between;
+      padding: 0 0 6%;
+    }
+
+    .title {
+
+      font-size: 30px;
+      font-weight: 100;
+      padding: 8%;
+      text-align: center;
+    }
+
+    &__box {
+
+      border: 4px #e6e6e6 solid;
+      display: inline-block;
+      padding: 0 0 2%;
+      text-align: center;
+      width: 364px;
+      vertical-align: middle;
+
+
+      .description {
+
+        padding: 0 0 8%;
+      }
+
+      .titleGlass {
+
+        color: #b7b7b7;
+        font-size: 18px;
+        letter-spacing: 8px;
+        padding: 20px 0;
+      }
+
+      .text {
+
+        color: #b7b7b7;
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 30px 20px;
+      }
+
+      .bottom {
+
+        background: red;
+        padding: 8px 10px;
+        width: 35%;
+        margin: auto 65%;
+
+        &__text {
+
+          color: #ffffff;
+          font-size: 14px;
+          text-align: center;
+        }
+      }
+    }
+  }
+}

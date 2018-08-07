@@ -1,0 +1,28 @@
+.rayban {
+
+   &__services {
+
+    background-image: url(/images/img-services-glasses.png);
+    background-repeat: no-repeat;
+    height: 764px;
+
+    .titleservice {
+
+      .title {
+
+        color: #fff;
+        font-size: 24px;
+      }
+    }
+
+    .textservice {
+
+      .text {
+
+        color: #fff;
+        font-size: 18px;
+      }
+    }
+  }
+}
+
